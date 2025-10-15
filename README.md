@@ -4,7 +4,7 @@ This repository contains a machine learning model for detecting fraudulent trans
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure:
 
 ```
 Fraud Detection/
